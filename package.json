@@ -1,7 +1,7 @@
 {
-  "name": "selenium-test",
+  "name": "workreport",
   "version": "1.0.0",
-  "description": "",
+  "description": "I'm tired of manually entering my workreports",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.1"
   }
 }
